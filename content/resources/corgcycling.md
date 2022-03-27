@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a0a5fa99-b966-8547-ce19-c2006fdb185d
 resourcetype: Document
 title: Organic matter cycling in the upper ocean in the upper ocean
 uid: 2b8b0ef6-ade6-fdd0-4c6a-7822d9aad715

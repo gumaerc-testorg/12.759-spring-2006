@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a0a5fa99-b966-8547-ce19-c2006fdb185d
 resourcetype: Document
 title: Organic Matter Preservation in Marine Sediments
 uid: d4fcac3d-38f6-45d6-338d-f8909a93c1bc

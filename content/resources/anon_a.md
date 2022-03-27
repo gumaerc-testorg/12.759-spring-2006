@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a0a5fa99-b966-8547-ce19-c2006fdb185d
 resourcetype: Document
 title: Hydrothermal Chemistry/Reverse Weathering
 uid: 2882d9fa-0297-786b-6be8-63e2d44e616e

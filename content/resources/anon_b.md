@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a0a5fa99-b966-8547-ce19-c2006fdb185d
 resourcetype: Document
 title: Where, Oh, Where has all the Carbon Gone?
 uid: f6637248-3160-9c20-262f-5bf6491c1bd7
