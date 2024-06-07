@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of student work: slides accompanying a student presentation
   on oceanic and atmospheric carbon.'
 file: /courses/12-759-marine-chemistry-seminar-spring-2006/f663724831609c20262f5bf6491c1bd7_Anon_b.pdf
+file_size: 139097
 file_type: application/pdf
 learning_resource_types:
 - Projects
