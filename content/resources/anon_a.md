@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: slides accompanying a student presentation
   on hydrothermal chemistry and reverse weathering.'
-file: /courses/12-759-marine-chemistry-seminar-spring-2006/2882d9fa0297786b6be863e2d44e616e_Anon_a.pdf
+file: /ol-ocw-studio-app/courses/12-759-marine-chemistry-seminar-spring-2006/2882d9fa0297786b6be863e2d44e616e_Anon_a.pdf
 file_size: 139692
 file_type: application/pdf
 learning_resource_types:
