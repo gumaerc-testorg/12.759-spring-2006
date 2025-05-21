@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: slides accompanying a student presentation
   on organic matter cycling in the upper ocean in the upper ocean.'
-file: /ol-ocw-studio-app/courses/12-759-marine-chemistry-seminar-spring-2006/2b8b0ef6ade6fdd04c6a7822d9aad715_CorgCycling.pdf
+file: /courses/12-759-marine-chemistry-seminar-spring-2006/2b8b0ef6ade6fdd04c6a7822d9aad715_CorgCycling.pdf
 file_size: 281618
 file_type: application/pdf
 learning_resource_types:
